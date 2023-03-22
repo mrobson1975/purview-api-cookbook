@@ -1,6 +1,6 @@
 - Configuration:
-  client_id: 6b2301d4-8c31-44a3-8149-255922a98af6
-  client_secret: 5op8Q~O2Q3.MDgtbIwGTRNrMDHgmZd6fRIOhbcEv
+  client_id: <CLIENT ID>
+  client_secret: <CLIENT SECRET>
   resource: https://purview.azure.net
-  tenant_id: cbded941-44c0-48f6-92b8-e0702e4b77b8
-  purview_account_name: pvdemoarfj5-pv
+  tenant_id: <TENANT ID>
+  purview_account_name: <PURVIEW ACCOUNT NAME>
