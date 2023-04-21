@@ -1,5 +1,5 @@
 # purview-api-cookbook
-A collection of notebooks and scripts to augment Microsoft Purview functionality leveraging REST APIs.  These examples use native REST capabilities in order to aid understanding of the Apache ATLAS payloads.  Other resources, such as Will Johnson's great [pyapacheatlas](https://github.com/wjohnson/pyapacheatlas) offer more succinct code patterns with lots of additional examples.
+A collection of educational notebooks and scripts to augment Microsoft Purview functionality leveraging REST APIs.  These examples use native REST capabilities in order to aid understanding of the Apache ATLAS payloads.  Other resources, such as Will Johnson's great [pyapacheatlas](https://github.com/wjohnson/pyapacheatlas) offer more succinct code patterns with lots of additional examples.
 
 ## Index of scripts
 
