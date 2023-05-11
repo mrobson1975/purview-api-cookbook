@@ -9,3 +9,4 @@ A collection of educational notebooks and scripts to augment Microsoft Purview f
 | lineage | lineage-tutorial.ipynb | Step-by-step walkthrough covering the creation of basic entities and column-level lineage
 | entity | entity-create-simple.ipynb | Simple example of creating an Azure SQL server, db, schema, table and columns
 | entity | entity-bulk-delete-from-collection.ipynb | Example of bulk deleting all entities in a collection
+| managed attributes | entity-bulk-assign-managed-attributes.ipynb | Example of creating a managed attraibute and bulk updating all entities in a collection
