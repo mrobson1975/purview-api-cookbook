@@ -11,3 +11,5 @@ A collection of educational notebooks and scripts to augment Microsoft Purview f
 | entity | entity-bulk-delete-from-collection.ipynb | Example of bulk deleting all entities in a collection
 | managed attributes | entity-bulk-assign-managed-attributes.ipynb | Example of creating a managed attraibute and bulk updating all entities in a collection
 | export | entity-bulk-export-by-collection | Example of bulk exporting entities from all collections to files
+| glossary | entity-bulk-glossary-updates | Example of bulk assigning a single Term to multiple entities 
+| glossary | glossary-terms-bulk-upload-via-csv | Example of bulk uploading Terms from CSV
